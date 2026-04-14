@@ -68,7 +68,7 @@ public class TheChatApp {
         Scanner sc = new Scanner(System.in);
         TheChatApp auth = new TheChatApp();
 
-        System.out.println("--- Registration ---");
+        System.out.println("Registration");
         System.out.print("First Name: ");
         String fname = sc.nextLine();
         System.out.print("Last Name: ");
